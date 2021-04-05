@@ -2,7 +2,13 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
-## Setup
+## Decision Flow
+
+### Assigning influence points
+
+## Development
+
+### Setup
 
 ```sh
 # Install dependencies
@@ -12,7 +18,7 @@ npm install
 npm start
 ```
 
-## Docker
+### Docker
 
 ```sh
 # 1. Build container
@@ -30,4 +36,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 Francisco Aramburo <atfm05@gmail.com>
+[MIT](LICENSE) © 2021 Francisco Miguel Aramburo Torres <atfm05@gmail.com>
